@@ -1,6 +1,6 @@
 # ML-Recommendation-System
 
-#### Question: Can we build a recommendation system that will recommend movies to user based on their viewing history/choosen movies?
+#### Question: Can we build a recommendation system that will recommend movies to user based on their viewing history/chosen movies?
 
 In this project, I tried to predict similar movies based on user's chosen movies. This same logic can be applied to library books, TV shows, products, etc.
 
