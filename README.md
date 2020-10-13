@@ -1,6 +1,8 @@
 # ML-Recommendation-System
 
-In this project, I tried to predict similar movies based on user's choosen movies. This same logic can be applied to library books, TV shows, products, etc.
+#### Question: Can we build a recommendation system that will recommend movies to user based on their viewing history/choosen movies?
+
+In this project, I tried to predict similar movies based on user's chosen movies. This same logic can be applied to library books, TV shows, products, etc.
 
 We start by loading the data into pandas data frames.
 
@@ -31,6 +33,6 @@ Let's start by extracting the genre table from the original dataframe:
 
 With the input's profile and the complete list of movies and their genres in hand, we're going to take the weighted average of every movie based on the input profile and recommend the top twenty movies that most satisfy it.
 
-And then we get the recomendation table
+And then we get the recommendation table
 
 ![Recomended Movies](images/recomendedMovies.png)
